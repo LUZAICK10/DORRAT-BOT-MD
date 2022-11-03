@@ -7,17 +7,15 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //cambia los números que sean propietarios 
 global.owner = [
-  ['593959425714', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Creador 🔰', true],
-  ['51993138466', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Collaborator 1 🔰', true],
-  ['573184314110', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤- Collaborator 3 🔰', true],
-  ['50246028932', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ -  Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛  4 🔰', true],
-  ['51928078536', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛𝚊 5 🔰', true],
-  ['51936767238'],
-  ['584125778026']
+  ['50242725900', '🍷⃪ོ᷼𝕷𝒖𝒛𝒂𝒊𝒄𝒌ৎ୭ֶָׄ⁩⁩', true],
+  ['50237849547', '🍷⃪ོ᷼𝕷𝒖𝒛𝒂𝒊𝒄𝒌ৎ୭ֶָׄ⁩⁩'],
+  ['524131291234', '🍷⃪ོ᷼𝕷𝒖𝒛𝒂𝒊𝒄𝒌ৎ୭ֶָׄ⁩⁩'],
+  ['524131653720', '🍷⃪ོ᷼𝕷𝒖𝒛𝒂𝒊𝒄𝒌ৎ୭ֶָׄ⁩⁩'],
+  ['50242097439']
 
 ] 
-global.suittag = ['593959425714'] 
-global.mods = ['595986674310'] 
+global.suittag = ['50242725900'] 
+global.mods = ['50237849547'] 
 global.prems = [] 
 
 global.APIs = { // API Prefix
@@ -82,16 +80,56 @@ global.APIKeys = { // APIKey Here
 global.lenguajeGB = es //Idioma de †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤, Ejemplo: es | en | pt ....
 
 /* ______________________________________________ */
-global.creadorname = '𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂'
+global.creadorname = '       ✶━━━◆𝑭𝑨𝑴𝑰𝑳𝑰𝑨◆━━━✶
+          𔔁𝐃𝐑𝐀𝐆𝐎♡𝐃𝐎𝐑𝐈፝֟𝐓𝐎𝐒 
+     ❑✮𝑻𝑬 𝑫𝑨 𝑳𝑨 𝑩𝑰𝑬𝑵𝑽𝑬𝑵𝑰𝑫𝑨✮❑
+
+*﮿👌🏻ᴘᴜᴇᴅᴇs-ᴀᴘᴏʀᴛᴀʀ.ve🤓*
+_﮿🎼Pᴇʟɪs🍿•Mᴜ́sɪᴄᴀ (En Doc)•_
+_﮿🎮Cʜᴀᴛ🗣 •Jᴜᴇɢᴏs•_
+_﮿📚Aᴘᴋs📱•Pᴅғs•_
+_﮿🌅Sᴇʀɪᴇs👯‍♀️•Fᴏɴᴅᴏs•_
+_﮿🎭ᴀɴɪᴍᴇ🎎 •Mᴇᴍᴇs•_
+_﮿📲Vɪᴅᴇᴏs-ᴘᴀʀᴀ-ᴇsᴛᴀᴅᴏs•_
+
+*﮿ᴍᴏᴛɪᴠᴏ-ᴅᴇ-ʙᴀɴ🚯.ve🚯*
+_﮿ᴇɴʟᴀᴄᴇs •ᴘᴏʀɴᴏ•_
+_﮿ᴄᴀᴅᴇɴᴀs •ᴄᴘ•_
+_﮿ɢᴏʀᴇ •ᴠɪʀᴜs•_
+_﮿ᴇsᴄʀɪʙɪʀ ᴀʟ ᴘᴠ•_
+_﮿ᴄʀɪᴛɪᴄᴀʀ ᴀᴘᴏʀᴛᴇs•_
+_﮿🅾️-ᴄᴏɴᴛᴀᴅᴏʀ-ᴇɴ•_
+
+*﮿JUEVES-NO-CHAT-SOLO-APORTES🤹🏻‍♀️.ve*
+ᥫ᭡⁩⁩▸💎 ۪۫ᴀ۪۫ᴅ۪۫ᴍ۪۫ɪ۪۫ɴ۪۫ɪ۪۫s۪۫ᴛ۪۫ʀ۪۫ᴀ۪۫ᴄ۪۫ɪ۪۫ᴏ۪́۫ɴ۪۫ 💎◂ᥫ᭡⁩⁩
+              ▔▔▔▔▔▔▔▔▔▔
+𓆩ֶ፝֟𓆪⁩~𝑫𝑶𝑹𝑰𝑻𝑶𝑺~𓆩ֶ፝֟𓆪⁩
+♡〫⋆▸🍒͡︎͜➛ᴇʟᴅᴀ
+♡〫⋆▸🦋͡︎͜➛ʟᴜᴢ
+♡〫⋆▸🍺͡︎͜➛ᴅᴀɴɴᴀ 
+♡〫⋆▸🌺͡︎͜➛ᴛᴏ́xɪᴄᴀ
+♡〫⋆▸♦️͜͡︎➛ᴀᴅʀʏᴀɴᴀ
+☻⋆▹🐉͜͡︎➛ᴅʀᴀɢᴏ
+☻⋆▹🎼͡︎͜➛ɢᴇʀᴀʟᴅ
+☻⋆▹ᵒ♞͡︎͜➛ᴄʜᴀʀʀᴏ ɴᴇɢʀᴏ
+﮿𒄬╭⬖─⬗─⬖─⬗─⬖─⬗╮𒄬
+_*﮿ɢʀᴜᴘᴏ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ*_
+~﮿https://chat.whatsapp.com/IFSAWEb22cT8hGAoNam0s2
+
+_*﮿💎ᴛᴇᴀᴍ ᴅᴏʀɪᴛᴏs💎*_
+
+_*﮿ɢʀᴜᴘᴏ ᴅᴇ ᴛᴇʟᴇɢʀᴀᴍ*_🆕
+~﮿https://t.me/+5d0SOA2AS9RjNjIx~
+﮿𒄬╰⬖─⬗─⬖─⬗─⬖─⬗╯𒄬🍷⃪ོ᷼𝕷𝒖𝒛𝒂𝒊𝒄𝒌ৎ୭ֶָׄ⁩⁩'
 global.creatorname = creadorname
 global.library = 'BAILEYS-MD'
 global.vs = '1.3.0'
 global.version = vs
 //------------- Sticker WM -----------
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
-global.wm = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ | 𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾'
-global.igfg = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
+global.author = '🍷⃪ོ᷼𝕷𝒖𝒛𝒂𝒊𝒄𝒌ৎ୭ֶָׄ⁩⁩'
+global.wm = '🍷⃪ོ᷼𝕷𝒖𝒛𝒂𝒊𝒄𝒌ৎ୭ֶָׄ⁩⁩'
+global.igfg = '🍷⃪ོ᷼𝕷𝒖𝒛𝒂𝒊𝒄𝒌ৎ୭ֶָׄ⁩⁩'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 //-------------------
 global.md = 'https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h'
@@ -105,7 +143,7 @@ global.fg = '☆━━━━ ⚠️ 𝙵𝙰𝙻𝙻𝙾 | 𝙵𝙰𝙻𝙻 ⚠�
 global.fallo = fg
 global.mg = '══ ❎ 𝙻𝙾 𝚄𝚂𝙾 𝙼𝙰𝙻 ❎ ══'
 global.mal = mg
-global.dorre = 'DORRAT-BOT-MD'
+global.dorre = '🍷⃪ོ᷼𝕷𝒖𝒛𝒂𝒊𝒄𝒌ৎ୭ֶָׄ⁩⁩'
 global.DORRA = dorre
 
 /* Imagenes___________________ */
